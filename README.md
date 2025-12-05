@@ -1,4 +1,4 @@
-Hi, I'm Nobu 🙌
+## Hi there, I'm Nobu 👋 
 A Frontend & Full-Stack Developer based in Vancouver, Canada.
 
 ## What I use in coding
