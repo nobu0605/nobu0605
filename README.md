@@ -1,5 +1,5 @@
 ## Hi there, I'm Nobu 👋 
-A Frontend & Full-Stack Developer with 7+ Years of professional experience based in Vancouver, Canada.
+A Frontend & Full-Stack Developer with 7+ Years of professional experience based in Tokyo, Japan.
 
 ## What I use in coding
 
